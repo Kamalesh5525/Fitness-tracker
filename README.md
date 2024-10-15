@@ -24,3 +24,6 @@ Set Goals: Define your fitness goals to stay focused.
 View Dashboard: Check your progress through the dashboard and statistics pages.
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
+
+
+https://fitness-tracker-sigma-orcin.vercel.app/
